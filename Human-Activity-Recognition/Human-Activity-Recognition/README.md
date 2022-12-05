@@ -1,6 +1,6 @@
-# Project Title: Human Activity Recognition
+# Title: Human Activity Recognition
 
-## Project Description
+##Description
 
 [Link to dataset](http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions)
 
