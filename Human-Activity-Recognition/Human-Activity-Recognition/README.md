@@ -37,16 +37,9 @@ Machine Learning Techniques used:
 ## Final Model
 We **did not** choose the SVM or Logistic Regression model as the best classifiers because they were trained on features that have been engineered (using their statistics eg: mean, standard deviation, interquartile range etc.), which meant that the performance was **very specific to this particular experimental setting**. To generalize to a more practical use case, we relied on the raw signals. Hence, the CNNLSTM model was the best performing model on raw signals. However, although it was the best performing, it had a **higher False Negative rate**. Therefore, more work has to be done on this model for this specific problem setting. Nevertheless, it is still **effective and competent** in detecting human activities in general and can be used for other applications.
 
-## Team Contributers
-1. [Choo Wei Jie, Darren](https://github.com/dchoo99)
-2. [Han Jiaxu](https://github.com/itsmejx)
-3. [Daryl Ang](https://github.com/cambrian-dk)
-4. [Teo Zhi Hao](https://github.com/Yttruire)
-5. Sarah Tan
-6. Kelvin Foo
+## 
 
-## Mentor
-Tian Fang
+## 
 
 ## Referenced Work:
 1. https://www.cdc.gov/falls/data/fall-deaths.html
