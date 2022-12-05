@@ -39,7 +39,7 @@ We **did not** choose the SVM or Logistic Regression model as the best classifie
 
 ## 
 
-## 
+## This Machine Learning Model done by Pramod Joshi.
 
 ## Referenced Work:
 1. https://www.cdc.gov/falls/data/fall-deaths.html
